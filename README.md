@@ -1,2 +1,8 @@
-# dsa_py
-Data Structures and Algorithms (Python)
+# Data Structures and Algorithms (Python)
+
+## Setup
+
+```
+pip install -r requirements.txt
+pytest
+```
